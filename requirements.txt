@@ -1,0 +1,9 @@
+google-adk==1.14.0
+google-cloud-firestore
+google-cloud-secret-manager
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+httpx
+pydantic
+google-cloud-firestore
