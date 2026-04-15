@@ -38,18 +38,6 @@ Each agent has its own tools and instructions. The orchestrator decides which ag
 
 ---
 
-## 🗂️ Project Structure
-
-```
-rxbridge/
-├── agent.py          # All agents, tools, and orchestrator
-├── seed_db.py        # Firestore seed data (medicines, patients, prescriptions, suppliers)
-├── .env              # Environment variables (edit with your Google credentials)
-└── requirements.txt  # Python dependencies
-```
-
----
-
 ## ⚙️ Setup & Installation
 
 ### Prerequisites
