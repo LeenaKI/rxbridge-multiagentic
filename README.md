@@ -3,7 +3,7 @@
 
 RxBridge is a multi-agent AI system built with **Google ADK** to help independent rural pharmacies manage daily operations — from drug interaction checks to missed prescription alerts and supplier reorder drafting.
 
-> 🔴 **Demo video:** [https:your-cloud-run-url]
+> 🎥 **Demo Video:** [Watch here](https://www.youtube.com/watch?v=xxxxxx)
 
 ---
 
